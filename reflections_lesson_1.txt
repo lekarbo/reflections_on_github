@@ -1,0 +1,36 @@
+de que me sirvió usar diff para reconocer las diferencias entre los dos archivos?
+
+me sirvió para ahorrar tiempo en encontrar la diferencia, y el output deja super claro lo que agrega y lo que quita del texto para saber como era la versión antigua v/s la nueva.
+
+como podría el acceso a multiples archivos históricos hacer un mejor y más eficiente programador?
+
+bueno, para empezar me ahorraría kilos de tiempo en arreglar errores que puedo cometer en el código al sobreescribirlos para probar algo nuevo, y se pierde el contenido anterior entre los "dos" y "undos".
+
+cuando es un momento apropiado para guardar una versión de un código?
+
+- cada vez que haga un cambio en un input o un output.
+- cada vez que agregue o quite definiciones (de funciones o de clases o tipos de estructuras de datos).
+- cuando ha pasado mucho tiempo desde que toqué ese código. 
+
+# sería una buena práctica comentar lo que agregué (o quité) en alguna parte.
+
+cuando hacer commits?
+- cada vez que haga un cambio lógico:
+por ej: cuando cambie un aspecto de una función. arregle un typo (asociado a una unica parte funcional del código). agregue algo, quite algo que cambie el funcionamiento en alguna parte del algoritmo.
+
+que opinas sobre el version control sobre varios archivos v/s otros que siguen versiones de archivos únicos?
+
+este sistema sirve más para trabajar con proyectos que contienen muchos archivos, como paginas en html o proyectos que instancias librerías, o librerías mismas.
+
+Como puedo usar los comandos de git log y git diff para ver el historial de archivos?
+
+git log: estando dentro del repositorio, tipear git log para mostrar el historial de commits.
++ git diff: ya tengo el id de cada commit en el historial, entonces puedo cachar las diferencias que han ocurrido en entre cada commit con "git diff ID_1 ID_2".
+
+como podría usa version control system  (VCS) volverte más confiado de hace cambios que podrían "romper algo"?
+
+podría hacerlo sin el miedo de RECAGARLA y perder tiempo en corregir lo que falle.
+
+Para que usaría Github ahora?
+
+Para todos mis proyectos en los que tenga de aquí en adelante, para crear librerías para mis trabajos, para documentarlo, para publicar contenido educativo. ufffff de todo.
