@@ -1,0 +1,5 @@
+que pasa cuando inicias un repositorio? por que hacerlo?
+
+el comando git init crea los documentos necesarios para que la carpeta se considere un repositorio, y habilita un registro histórico de los archivos. 
+hacerlo para que la puedan funcionar las distintas funcionalidad de VCS de git.
+
