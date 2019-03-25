@@ -28,3 +28,4 @@
 --> "========" cambios con respecto al "||||||||| ..." que hizo otro colaborador
 ## "git add [archivo conflictivo]" para poner el archivo conflictivo en el staging area y "git commit -m [wea]" para finalmente mergear.
  
+# "git log -n [numero entero]" para mostrar solo los ultimos [numero entero] commits
