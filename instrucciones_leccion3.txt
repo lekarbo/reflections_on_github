@@ -20,3 +20,11 @@
 
 # "git show [commit_id]" compara el commit [commit_id] con su commit padre.
 
+## cuando hay merging conflicts, entrás en modo MERGING para corregir esos conflictos.
+-> aquí git hara cambios en los archivos conflictivos para arreglar esto:
+--> "<<<<<<<<<HEAD" es mi codigo
+--> ">>>>>>>>>master" es el codigo que esta en el master branch
+--> "||||||||| merged common ancestor" es la version original que los branches a combinar (merge) han modificado
+--> "========" cambios con respecto al "||||||||| ..." que hizo otro colaborador
+## "git add [archivo conflictivo]" para poner el archivo conflictivo en el staging area y "git commit -m [wea]" para finalmente mergear.
+ 
