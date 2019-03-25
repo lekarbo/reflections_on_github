@@ -1,0 +1,17 @@
+# "git init" para iniciar un repositorio
+
+# "git status" para ver el estado del repositorio (mostrará información relevante como por ejemplo los archivos que trackea, los ultimos commits, etc...)
+
+# "git diff [no arguments]" es para ver las diferencias entre el "working directory" y el "staging area".
+
+# "git diff --staged" es para ver las diferencias entre el staging area y el ultimo commit.
+
+# "git reset --hard" para resetear todos los cambios en el "working directory" y el "staging area".
+
+# "git branch [nombre_del_branch]" para hacer un nuevo branch para probar alguna nueva funcionalidad y estructura del repo
+ 
+# "git checkout [nombre_del_branch]" para intercambiar entre branches ("git checkout master" para volver al principal)
+
+# "git log --graph --oneline [lista de branches a mostar separados por espacio]" muestra un grafo de la historia de los branches que esta en la [lista de...]
+
+# "git checkout -b [nombre_branch]" si se quiere hacer un nuevo branch desde el estado "detached HEAD" (habiendole hecho git checkout [id]) 

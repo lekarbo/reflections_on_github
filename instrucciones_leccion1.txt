@@ -1,0 +1,16 @@
+EL COMANDO DIFF!!
+
+El comando diff es la función en Unix para sacarle las diferencias a 2 archivos.
+
+diff -u game_old.js game_new.js # el -u es para "unified format".
+
+en el output, muestra el rango de lineas donde ocurrió la diferencia muestra con menos las cosas que estaban en la version anterior y con + las cosas agregadas y con -, las cosas que deben ser sustraidas para que game_old.js sea igual a game_new.js.
+
+COMANDO GIT LOG:
+la función "git log" al estar adentro de un repositorio, te muestra el historial de commits que se ha hecho en el repositorio, con el ID de cada commit.
+
+COMANDO GIT DIFF:
+la función "git diff" muestra las diferencias (de la misma forma que "diff") entre 2 commits.
+	ejemplo:
+		git diff ID_COMMIT_NUEVO ID_COMMIT_VIEJO
+
