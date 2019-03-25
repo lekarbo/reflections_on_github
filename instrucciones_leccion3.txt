@@ -7,3 +7,7 @@
 # "git diff --staged" es para ver las diferencias entre el staging area y el ultimo commit.
 
 # "git reset --hard" para resetear todos los cambios en el "working directory" y el "staging area".
+
+# "git branch [nombre_del_branch]" para hacer un nuevo branch para probar alguna nueva funcionalidad y estructura del repo
+ 
+# "git checkout [nombre_del_branch]" para intercambiar entre branches ("git checkout master" para volver al principal)
