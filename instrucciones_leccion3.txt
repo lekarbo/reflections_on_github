@@ -15,3 +15,8 @@
 # "git log --graph --oneline [lista de branches a mostar separados por espacio]" muestra un grafo de la historia de los branches que esta en la [lista de...]
 
 # "git checkout -b [nombre_branch]" si se quiere hacer un nuevo branch desde el estado "detached HEAD" (habiendole hecho git checkout [id]) 
+
+# "git merge [branch1 branch 2 ...]" combina los branch con el branch en que se está actualmente (en checkout o en master)
+
+# "git show [commit_id]" compara el commit [commit_id] con su commit padre.
+
