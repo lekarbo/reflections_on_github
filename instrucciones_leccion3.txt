@@ -14,3 +14,4 @@
 
 # "git log --graph --oneline [lista de branches a mostar separados por espacio]" muestra un grafo de la historia de los branches que esta en la [lista de...]
 
+# "git checkout -b [nombre_branch]" si se quiere hacer un nuevo branch desde el estado "detached HEAD" (habiendole hecho git checkout [id]) 
