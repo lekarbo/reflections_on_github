@@ -3,3 +3,6 @@ que pasa cuando inicias un repositorio? por que hacerlo?
 el comando git init crea los documentos necesarios para que la carpeta se considere un repositorio, y habilita un registro histórico de los archivos. 
 hacerlo para que la puedan funcionar las distintas funcionalidad de VCS de git.
 
+como es el "staging area" diferente al "working directory" y al "repositorio"? que valor crees que agrega?
+
+el staging area es un paso intermedio entre el working directory y el repositorio, es un espacio donde uno acumula solo los archivos y cambios que se agregarán al commit. el staging area solo contiene los archivos con cambios para el commit, mientras que el "wd" y el "repo" contienen todos los arhivos del repositorio. Esta funcionalidad permite solo subir lpos archivos que se cambiarán y permite llevar un trackeo que los archivos que se van cambiando a medida que se agregan al "sa".
