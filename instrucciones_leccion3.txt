@@ -11,3 +11,6 @@
 # "git branch [nombre_del_branch]" para hacer un nuevo branch para probar alguna nueva funcionalidad y estructura del repo
  
 # "git checkout [nombre_del_branch]" para intercambiar entre branches ("git checkout master" para volver al principal)
+
+# "git log --graph --oneline [lista de branches a mostar separados por espacio]" muestra un grafo de la historia de los branches que esta en la [lista de...]
+
