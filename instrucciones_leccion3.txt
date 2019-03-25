@@ -1,0 +1,9 @@
+# "git init" para iniciar un repositorio
+
+# "git status" para ver el estado del repositorio (mostrará información relevante como por ejemplo los archivos que trackea, los ultimos commits, etc...)
+
+# "git diff [no arguments]" es para ver las diferencias entre el "working directory" y el "staging area".
+
+# "git diff --staged" es para ver las diferencias entre el staging area y el ultimo commit.
+
+# "git reset --hard" para resetear todos los cambios en el "working directory" y el "staging area".
