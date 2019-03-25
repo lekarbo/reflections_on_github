@@ -4,3 +4,5 @@
 
 # "git push origin master" pushea el contenido del repo al master branch 
 % aquí pide user y pass
+
+# "git pull origin master" sincroniza el contenido de tu repositorio con el actualizado en github
