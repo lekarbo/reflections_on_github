@@ -9,3 +9,8 @@ el staging area es un paso intermedio entre el working directory y el repositori
 
 como usar el staging area para asegurarse de que se hace un commit por "cambio lógico"?
 viendo los cambios que he hecho con git diff.
+
+en que situacion usaría branches y serían útiles para llevar mi historial de commits organizado? como me ayudarían estos?
+cuando quiera hacer algun cambio significativo para probar funcionalidades, pero queriendo mantener integro el código original para no cagarla, teniendo la opción de volver cuando quiera al branch original. 
+
+# mike whales (weon de udacity) dice que cada vez que agregue una nueva funcionalidad o corregir un bug se hace un nuevo branch, para mantener integro siempre una versión de demo totalmente funcional en el master branch
