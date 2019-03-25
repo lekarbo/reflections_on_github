@@ -1,0 +1,3 @@
+cuando usarías un repositorio remote en vez de tener todo el trabajo en entorno local?
+-> cuando quiera hacer cambios en el repositorio en github para actualizarlos en un pc donde no esté el repo.
+-> para trabajos colaborativos.
