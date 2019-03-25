@@ -19,5 +19,7 @@ como ayudan los diagramas a visualizar la estructura de branches?
 
 muestran de forma más estructurada el historial de cambios, lo que ayuda a ver claramente cuando se ha hecho cada branch y cambios en este respecto a los cambios en el "master branch".
 
+cual es el resultado de mezclar dos branches? porque usar el grafo de historia de commits?
 
+se combinan automaticamente (si es posible) los cambios entre 2 branches, combinando el contenido de los archivos, agregando y quitando contenido segun se pueda. 
 
