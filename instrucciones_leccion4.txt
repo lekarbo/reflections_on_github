@@ -1,0 +1,6 @@
+# "git remote add origin https://github.com/usuario/nombre_del_repo.git" para crear un repo remoto
+
+# "git remote -v" muestra el link pa obtener data y el link pa pushear data
+
+# "git push origin master" pushea el contenido del repo al master branch 
+% aquí pide user y pass
