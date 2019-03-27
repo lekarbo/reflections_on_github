@@ -11,3 +11,6 @@
 -> usaría clone pa copiar repos a mi pc
 -> usaría branch pa hacer commits experimentales sin el peligro de cagar mi código y no cachar que vergas hice.
 
+# cual es el beneficio de tener una copia del uno estado del repositorio remoto, guardado localmente?
+
+-> revisar primero la desincronía entre mi repo local y el de github antes de commitear, mergear, etc...
