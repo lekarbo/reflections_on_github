@@ -1,3 +1,13 @@
-cuando usarías un repositorio remote en vez de tener todo el trabajo en entorno local?
+# cuando usarías un repositorio remote en vez de tener todo el trabajo en entorno local?
 -> cuando quiera hacer cambios en el repositorio en github para actualizarlos en un pc donde no esté el repo.
 -> para trabajos colaborativos.
+
+# cuales son las diferencias entre forks, clones y branches? porque usaría uno en vez de otro?
+-> un fork es una una copia de un repositorio en Github, en otra cuenta con repos de Github.
+-> clone es una copia de un repositorio a otra locacion (en entorno local o tu PC)
+-> branch es una bifurcación de commits donde se pueden hacer cambios de código en el repo, sin que estos commits se hagan sin afectar el "master".
+
+-> usaría fork si no quiero pasar por mi pc pa clonar un repo en mi github.
+-> usaría clone pa copiar repos a mi pc
+-> usaría branch pa hacer commits experimentales sin el peligro de cagar mi código y no cachar que vergas hice.
+

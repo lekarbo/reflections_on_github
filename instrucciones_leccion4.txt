@@ -6,3 +6,5 @@
 % aquí pide user y pass
 
 # "git pull origin master" sincroniza el contenido de tu repositorio con el actualizado en github
+
+# para hacer FORK, se hace desde la GUI del sitio github desde el sitio de otro repositorio. Al hacerlo este queda clonado en tu github.
