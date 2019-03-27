@@ -8,3 +8,13 @@
 # "git pull origin master" sincroniza el contenido de tu repositorio con el actualizado en github
 
 # para hacer FORK, se hace desde la GUI del sitio github desde el sitio de otro repositorio. Al hacerlo este queda clonado en tu github.
+
+# "git fetch" hace una copia local del master (master branch en github) en un nuevo branch "origin/master"
+-> correr "git log origin/master" para ver el commit history del branch en github
+-> si estan desincronizados, haciendo git status (despues del fetch) mostrará que estan fuera de sincronía en algunos archivos.
+
+# "git merge master origin/master" junta los cambios de origin/master (local copiado de github) con master (local local)
+
+*** "git pull origin master" es lo mismo que que hacer "git fetch" + "git merge master origin/master"
+*** ^ solo si uno de los commits es ancentro del otro.
+
